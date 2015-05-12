@@ -2,7 +2,7 @@
 
 [Codemaster]
 
-# Python: What You Need to Know to Get Started
+# Python Web Frameworks
 
 CodeMaster is excited to introduce a series of FREE Python workshops lead by Python developer, Alvin Lawson! This series is geared towards developers that want to learn Python, Python frameworks and/or want to learn how to program within the Django framework. 
 
