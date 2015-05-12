@@ -21,36 +21,29 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 * Mezzanine CMS 
 
 # Python: Examples
-* [Python Simple Server] - Comparing Java, and Ruby's Hello World.
-* [Input Example] - Comparing Python 2 and Python 3 input statements.
-* [Add Number Comparison] - Comparing Java to Python with Add Statements.
-* [Math Example] - Square root math example.
-* [Sorting Example] - Sorting comparison to Java example.
-* [Boolean Example] - Boolean True/False example.
-* [If And Else Example] - If and Else example.
-* [Sorting Examplee] - Sorting example comparing Ruby.
-* [Factorial Example] - Factorial Example.
-* [Define function example] - Defining a function example. 
-* [Classes Example] - What are classes in Python?
-* [Quicksort Example] - Quick Sort algorithms with a timer and without a timer Python comparison to Java.
-* [Bubble Sort Example] - Bubble Sort algorithm with a timer and without a timer. 
-* [Web Scraping Example] - LXML and Beautiful Soup Web Scraping example.
+* [Python Simple Server] - Simple Python Server Tool
+* [Flask Hello World] - Hello World in Flask
+* [Flask Step 1] - Flask Web Framework Step 1
+* [Flask Step 2] - Flask Web Framework Step 2
+* [Flask Step 3] - Flask Web Framework Step 3
+* [Flask Step 4] - Flask Web Framework Step 4
+* [Flask Step 5] - Flask Web Framework Step 5
+* [Flask Step 6] - Flask Web Framework Step 6
+* [Pyramid] - Pyramid
+* [Mezzanine] - Mezzanine CMS
 
 [Codemaster]:http://www.codemaster.nyc/
 
 [Python Simple Server]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example1
 
-[Input Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example2
-[Add Number Comparison]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example3
-[Math Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example4
-[Sorting Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example5
-[Boolean Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example6
-[If And Else Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example7
-[Sorting Examplee]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example8
-[Factorial Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example9
-[Define function example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example10
-[Classes Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example11
-[Quicksort Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example12
-[Bubble Sort Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example13
-[Web Scraping Example]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example14
+[Flask Hello World]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example2
+
+[Flask Step 1]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example3
+[Flask Step 2]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example4
+[Flask Step 3]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example5
+[Flask Step 4]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example6
+[Flask Step 5]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example7
+[Flask Step 6]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example8
+[Pyramid]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example9
+[Mezzanine]:https://github.com/al11588/PythonWorkshopDay2/tree/master/example10
 
