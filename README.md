@@ -22,14 +22,23 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 
 # Python: Examples
 * [Python Simple Server] - Simple Python Server Tool
+
 * [Flask Hello World] - Hello World in Flask
+
 * [Flask Step 1] - Flask Web Framework Step 1
+
 * [Flask Step 2] - Flask Web Framework Step 2
+
 * [Flask Step 3] - Flask Web Framework Step 3
+
 * [Flask Step 4] - Flask Web Framework Step 4
+
 * [Flask Step 5] - Flask Web Framework Step 5
+
 * [Flask Step 6] - Flask Web Framework Step 6
+
 * [Pyramid] - Pyramid
+
 * [Mezzanine] - Mezzanine CMS
 
 [Codemaster]:http://www.codemaster.nyc/
