@@ -1,4 +1,4 @@
-![Image of Codemasters](http://www.codemaster.nyc/uploads/4/8/4/6/48467487/1425663631.png)
+![Image of Codemasters](https://raw.githubusercontent.com/al11588/PythonWorkshopDay1/master/codemaster.png)
 
 [Codemaster]
 
